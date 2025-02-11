@@ -20,10 +20,6 @@ En cas de questions ou de problèmes avec l'utilisation du jeu, n'hésitez pas �
 - **Drew M**
 - **REY Timothé**
 
-## But du Projet
-
-Ce projet a été développé dans le cadre du cours de Génie Logiciel de L2 Informatique à l'Université de Cergy.
-
 ## URL Utilisées
 
 - [GitHUB](https://github.com/DrewVII/Seacret)
