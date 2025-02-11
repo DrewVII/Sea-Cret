@@ -19,7 +19,3 @@ En cas de questions ou de problèmes avec l'utilisation du jeu, n'hésitez pas �
 - **CHEBALLAH Jawed**
 - **Drew M**
 - **REY Timothé**
-
-## URL Utilisées
-
-- [GitHUB](https://github.com/DrewVII/Seacret)
